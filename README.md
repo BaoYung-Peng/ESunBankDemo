@@ -101,6 +101,7 @@ E_Sun_seatingManagement/
 ```
 ---
 
+```
 ## 後端 Spring Boot 專案目錄結構 E.SUN-BANK_project 樹狀架構圖
 
 E.SUN_BANK_project/
@@ -144,3 +145,4 @@ E.SUN_BANK_project/
         │
         └── resources/
             └── application.properties               # Spring Boot 設定檔
+```
