@@ -76,16 +76,16 @@ E_Sun_seatingManagement/
 │       ├── @models/           # 定義資料模型（TypeScript interfaces 或 classes）
 │       │   ├── employee.model.ts     # 員工資料模型
 │       │   └── seat.model.ts         # 座位資料模型
-│       │
+│
 │       ├── @services/         # 提供商業邏輯與資料請求的服務
 │       │   ├── employee.service.ts   # 員工相關資料的服務層邏輯
 │       │   └── seat.service.ts       # 座位相關資料的服務層邏輯
-│       │
+│
 │       ├── seating-chart/     # 座位圖元件（Component）
 │       │   ├── seating-chart.component.html   # HTML 模板
 │       │   ├── seating-chart.component.scss   # 樣式檔
 │       │   └── seating-chart.component.ts     # TypeScript 元件邏輯
-│       │
+│
 │       ├── app.component.html         # 主元件的 HTML 模板
 │       ├── app.component.scss         # 主元件的樣式
 │       ├── app.component.spec.ts      # 主元件的單元測試檔案
