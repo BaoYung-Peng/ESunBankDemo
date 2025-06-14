@@ -103,7 +103,7 @@ E_Sun_seatingManagement/
 
 ## 後端 Spring Boot 專案目錄結構 E.SUN-BANK_project 樹狀架構圖
 
-E.SUN-BANK_project/
+E.SUN_BANK_project/
 └── src/
     └── main/
         ├── java/
