@@ -66,7 +66,7 @@ Email：Baoyungpeng1999@gmail.com
 ---
 
 ## 前端 Angular 專案目錄結構 E_Sun_seatingManagement 樹狀架構圖
-
+```
 E_Sun_seatingManagement/
 ├── .angular/                  # Angular CLI 自動產生的暫存資料（建構過程用）
 ├── .vscode/                   # Visual Studio Code 編輯器的專案設定
@@ -98,7 +98,7 @@ E_Sun_seatingManagement/
 ├── main.ts                    # Angular 應用的啟動入口點
 ├── styles.scss                # 全域樣式設定
 └── tsconfig.json              # TypeScript 編譯器設定檔
-
+```
 ---
 
 ## 後端 Spring Boot 專案目錄結構 E.SUN-BANK_project 樹狀架構圖
