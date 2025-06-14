@@ -60,7 +60,8 @@ Email：Baoyungpeng1999@gmail.com
 - 執行以下指令安裝所有依賴套件
 - npm install
 - 系統會自動詢問樣式格式，請選擇 SCSS
-- ng serve
+- 開啟專案: ng serve || ng s
+- 開啟新專案: ng serve open || ng s -o
 
 ---
 
