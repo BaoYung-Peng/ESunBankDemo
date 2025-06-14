@@ -1,0 +1,16 @@
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('1', '1', '座位1');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('2', '1', '座位2');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('3', '1', '座位3');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('4', '1', '座位4');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('5', '2', '座位1');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('6', '2', '座位2');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('7', '2', '座位3');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('8', '2', '座位4');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('9', '3', '座位1');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('10', '3', '座位2');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('11', '3', '座位3');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('12', '3', '座位4');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('13', '4', '座位1');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('14', '4', '座位2');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('15', '4', '座位3');
+INSERT INTO `e.sun_bank`.`seating_chart` (`FLOOR_SEAT_SEQ`, `FLOOR_NO`, `SEAT_NO`) VALUES ('16', '4', '座位4');

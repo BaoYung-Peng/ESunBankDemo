@@ -1,0 +1,11 @@
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12006', '3');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('16142', '7');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('13040', '9');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('17081', '10');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('11221', '12');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('16722', '15');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12345', '0');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12346', '0');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12347', '0');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12348', '0');
+INSERT INTO `e.sun_bank`.`employee` (`EMP_ID`, `FLOOR_SEAT_SEQ`) VALUES ('12349', '0');

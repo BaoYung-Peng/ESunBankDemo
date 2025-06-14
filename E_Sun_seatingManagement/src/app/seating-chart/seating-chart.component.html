@@ -1,0 +1,45 @@
+<!-- 員工下拉選單 -->
+<select [(ngModel)]="selectedEmpId" class="employee-select">
+  <option [ngValue]="null">請選擇員工</option>
+  <option *ngFor="let emp of unassignedEmployees" [ngValue]="emp.empId">
+    {{ emp.name }} (員編: {{ emp.empId }})
+  </option>
+</select>
+
+<!-- 座位表格 -->
+<table class="seat-table">
+  <tr *ngFor="let row of groupedSeatList">
+    <td *ngFor="let seat of row"
+    [ngClass]="getCssClass(seat)"
+    (click)="seatClicked(seat)">
+    {{ seat.floorNo }}樓：{{ seat.seatNo }}
+
+      <div *ngIf="seat.empId && seat.floorSeatSEQ !== selectedSeatSeq">
+        [員編：{{ seat.empId }}]
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- 狀態說明 + 送出按鈕 容器 -->
+<div class="footer-container">
+  <div class="legend">
+    <div class="legend-item">
+      <div class="color-box vacant"></div>
+      <span>空位</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box occupied"></div>
+      <span>已佔用</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box selected"></div>
+      <span>請選擇</span>
+    </div>
+  </div>
+
+  <!-- 送出按鈕 -->
+  <div class="submit-btn-container">
+    <button class="submit-btn" (click)="submit()">送出</button>
+  </div>
+</div>
